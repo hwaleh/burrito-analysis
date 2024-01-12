@@ -13,7 +13,7 @@ Because our data is comprised of written reviews, the overall scores given for e
 ## Dataset
 Please check the above link for more details on the dataset. Below is an image of some entries in the dataset.
 
-![image info](./)
+![burrito dataset after processing and cleaning](./burrito_data.PNG)
 
 <div></div>
 
